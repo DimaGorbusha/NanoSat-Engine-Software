@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/SignUp.sass"
+    ],
+    "names": [],
+    "file": "SignUp.css"
+}
